@@ -1,2 +1,2 @@
-# datascientist
+# Datascientist
 ![](PlayWithData.png?raw=true)
