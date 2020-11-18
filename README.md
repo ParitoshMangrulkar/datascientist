@@ -14,3 +14,7 @@
 8) NLTK - Natural Language Tool Kit
 9) Pillow - Improved version of PIL (python image library) 
 
+
+# API development
+1) FastAPI built on Python. It uses ASGI ( Asynchronous Server Gateway Interface)
+2) 
