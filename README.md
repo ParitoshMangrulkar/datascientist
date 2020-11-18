@@ -2,7 +2,7 @@
 ![](PlayWithData.png?raw=true)
 
 
-# Libraries for Data Science
+### Libraries for Data Science
 
 1) Tensor Flow - Deep Learning
 2) Scikit Learn - Machine Learning
@@ -15,6 +15,6 @@
 9) Pillow - Improved version of PIL (python image library) 
 
 
-# API development
-1) FastAPI built on Python. It uses ASGI ( Asynchronous Server Gateway Interface)
+### API development
+1) FastAPI built on Python. It uses ASGI ( Asynchronous Server Gateway Interface), use uvicorn library  ( Earlier called as Swagger )
 2) 
