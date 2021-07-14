@@ -1,6 +1,8 @@
 # Datascientist
 ![](PlayWithData.png?raw=true)
 
+### Charts - Visualization
+https://datavizproject.com/
 
 ### Libraries for Data Science
 
